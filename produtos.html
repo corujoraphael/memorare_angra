@@ -1,0 +1,23 @@
+---
+layout: layout.html
+---
+
+<section id="products">
+  <h2>Escolha a que mais te agrada</h2>
+  <p>Cestas personalizadas, perfeitas para qualquer celebração. Cada detalhe é pensado para surpreender e emocionar quem você ama.</p>
+  <div class="container">
+    {% for cesta in collections.cesta %}
+    <div class="product">
+      <a href="{{ cesta.url}}">
+        <img src="/imgs/{{ cesta.data.photo }}" alt="{{ cesta.data.title }}">
+      </a>
+      <h3 class="name">{{ cesta.data.title }}</h3>
+      <p class="type">{{ cesta.data.type }}</p>
+      <p class="price">{{ cesta.data.price }}</p>
+      <a href="https://wa.me/5524988376332?text=Vim do site e tenho interesse na {{ cesta.data.title }}" class="button">
+        Reservar
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
