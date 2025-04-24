@@ -4,6 +4,6 @@
     "html-minifier": "^4.0.0"
   },
   "scripts": {
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/your-repo-name/"
+    "build-ghpages": "npx @11ty/eleventy"
   }
 }
