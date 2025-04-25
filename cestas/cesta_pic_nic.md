@@ -4,7 +4,7 @@ pageTitle: Cesta Artesanal em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 245,00
-photo: Cesta PicNic Artesanal - Conselheiro Lafaiete.jpg
+photo: Cesta PicNic Artesanal - Conselheiro Lafaiete.webp
 layout: posts
 ---
 Cesta artesanal composta pelos seguintes itens:
