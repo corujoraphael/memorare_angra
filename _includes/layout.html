@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ pageTitle if pageTitle else title if title else 'Cestas Artesanais em Conselheiro Lafaiete MG | Memorare Cestas' }}</title>
+  <title>{{ pageTitle | default: title | default: 'Cestas Artesanais em Conselheiro Lafaiete MG | Memorare Cestas' }}</title>
   <meta name="description" content="{{ description | default: 'Cestas artesanais com entrega em Conselheiro Lafaiete - MG. Surpreenda com presentes únicos!' }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
