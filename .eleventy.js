@@ -19,10 +19,8 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+  eleventyConfig.addFilter("limit", (arr, limit) => arr.slice(0, limit));
 
-  eleventyConfig.addFilter("limit", function(array, limit) {
-    return array.slice(0, limit);
-  });
   return {
     dir: {
       input: ".", // Pasta de entrada
