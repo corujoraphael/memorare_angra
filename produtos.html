@@ -14,10 +14,26 @@ layout: layout.html
       <h3 class="name">{{ cesta.data.title }}</h3>
       <p class="type">{{ cesta.data.type }}</p>
       <p class="price">{{ cesta.data.price }}</p>
-      <a href="https://wa.me/5524988376332?text=Vim do site e tenho interesse na {{ cesta.data.title }}" class="button">
-        Reservar
+      <a href="{{ cesta.url}}" class="button">
+        MAIS DETALHES
       </a>
     </div>
     {% endfor %}
+  </div>
+</section>
+<section id="highlights">
+  <div class="image">
+    <img src="/imgs/cesta 6.jpg" alt="">
+  </div>
+  <div class="text">
+    <h2>Transforme cada ocasião especial com Memorare Cestas</h2>
+    <p>As cestas personalizadas da Memorare Cestas são mais que presentes; elas criam memórias autênticas. Desde cestas de café da manhã frescas e saborosas até delícias em forma de chocolates finos, cada criação é feita para encantar.</p>
+    <p>Nossas opções para crianças garantem sorrisos e diversão, enquanto a qualidade e a dedicação das nossas cestas transmitem seu carinho de maneira única. Escolha a cesta perfeita para cada momento especial.</p>
+    <ul>
+      <li>Cestas personalizadas adequadas para qualquer ocasião</li>
+      <li>Ingredientes frescos e de alta qualidade</li>
+      <li>Embalagens cuidadosas que impressionam</li>
+      <li>Cuidado especial em cada detalhe de nossas criações</li>
+    </ul>
   </div>
 </section>
