@@ -1,12 +1,13 @@
 ---
 title: Cesta Brunch
+pageTitle: Cesta Artesanal em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 199,00
-photo: cesta 2.jpg
+photo: Cesta Brunch Artesanal - Conselheiro Lafaiete.jpg
 layout: posts
 ---
-Cesta composta pelos seguintes itens:
+Cesta artesanal composta pelos seguintes itens:
 
 - 01 Pão tipo baguete
 - 02 Pães recheados
@@ -19,3 +20,17 @@ Cesta composta pelos seguintes itens:
 - 01 Suco de laranja ou uva
 - 01 Iogurte
 - 01 Pequeno arrajno de flores
+- Cartão de mensagem
+- Tag Personalizada
+- Emabalagem
+
+
+Pedidos com 24h de antecedência (podendo ser atendido antes mesmo desse prazo). 
+
+Aceitamos Pix, Cartão e Transferência. 
+
+Caso haja indisponibilidade de algum item no momento da montagem, nos reservamos no direito de fazer substituições por itens semelhantes. 
+
+As flores podem variar de acordo com a disponibilidade do fornecedor não sendo possível a escolha das mesmas. 
+
+Consultar taxa de entrega

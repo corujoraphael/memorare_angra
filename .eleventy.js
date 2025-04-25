@@ -20,6 +20,16 @@ module.exports = function (eleventyConfig) {
     return content;
   });
   eleventyConfig.addFilter("limit", (arr, limit) => arr.slice(0, limit));
+  eleventyConfig.addCollection("cestas", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("cestas/*.md");
+  });
+  eleventyConfig.addFilter("today", () => {
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, '0'); // mês começa em 0
+    const dd = String(now.getDate()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd}`;
+  });
   return {
     dir: {
       input: ".", // Pasta de entrada

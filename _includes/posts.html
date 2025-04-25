@@ -3,19 +3,23 @@ layout: layout.html
 ---
 
 <section id="product_info">
-  <div class="photo">
-    <img src="/imgs/{{ photo }}" alt="{{ title }}">
-  </div>
+  <h1 class="name">{{ title }}</h1>
+  <h2 class="name">Conselheiro Lafaiete - {{ type }}</h2>
+
+  <div id="details">
+    <div class="photo">
+      <img src="/imgs/{{ photo }}" alt="{{ title }}">
+    </div>
     <div class="data">
-    <h3 class="name">{{ title }}</h3>
-    <p class="type"><span class="bold"> Tipo:</span> {{ type }}</p>
-    <div class="description">
-      {{ content }}
-    </p>
-    <p class="price">{{ price }}</p>
-    <a href="https://wa.me/5524988376332?text=Vim do site e tenho interesse na {{ title }}" class="button">
-      Reservar
-    </a>
+      <div class="description">
+        {{ content }}
+      </p>
+      <p class="price">{{ price }}</p>
+      <a href="https://wa.me/5524988376332?text=Vim do site e tenho interesse na {{ title }}" class="button">
+        RESERVAR
+      </a>
+    </div>
+
   </div>
 </section>
 <section id="testimonials">
