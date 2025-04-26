@@ -1,10 +1,10 @@
 ---
 title: Cesta Kids
-pageTitle: Cesta Artesanal em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 180,00
-photo: Cesta Kids Artesanal - Conselheiro Lafaiete1.webp
+photo: Cesta Kids Cafe da manha - Conselheiro Lafaiete.webp
 ---
 Cesta artesanal composta pelos seguintes itens:
 

@@ -1,10 +1,10 @@
 ---
 title: Cesta Brunch
-pageTitle: Cesta Artesanal Brunch em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manha/tarde Brunch em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 199,00
-photo: Cesta Brunch Artesanal - Conselheiro Lafaiete1.webp
+photo: Cesta Brunch Cafe da manha - Conselheiro Lafaiete.webp
 layout: posts
 ---
 Cesta artesanal composta pelos seguintes itens:

@@ -1,10 +1,10 @@
 ---
 title: Cesta Chocolate
-pageTitle: Cesta Artesanal em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manha/tarde de chocolate em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 180,00
-photo: cesta 81.webp
+photo: Cesta Chocolate Cafe da manha - Conselheiro Lafaiete.webp
 ---
 Cesta artesanal composta pelos seguintes itens:
 

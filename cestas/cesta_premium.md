@@ -1,10 +1,10 @@
 ---
 title: Cesta Premium
-pageTitle: Cesta Artesanal Premium em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde Premium em Conselheiro Lafaiete MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 180,00
-photo: Cesta Premium Artesanal - Conselheiro Lafaiete1.webp
+photo: Cesta Premium Cafe da manha - Conselheiro Lafaiete.webp
 ---
 Cesta artesanal composta pelos seguintes itens:
 
