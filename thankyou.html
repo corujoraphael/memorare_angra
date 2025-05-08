@@ -1,0 +1,29 @@
+---
+layout: layout.html
+---
+
+<section id="products">
+  <h2>Obrigado pela compra</h2>
+</section>
+<script> 
+const cestas = {
+      'classic': 185.00,
+      'brunch': 199.00,
+      'chocolate': 195.00,
+      'kids': 190.00,
+      'picnic': 245.00,
+      'premium': 280.00,
+    };
+    
+    function gerarTransactionId() {
+      return 'tx-' + Math.random().toString(36).substring(2, 10) + '-' + Date.now();
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const cesta = params.get('cesta');
+
+    if (cesta && cestas[cesta]) {
+      const valor = cestas[cesta];
+      gtag('event', 'conversion', { 'send_to': 'AW-980642221/t62WCO7NtsQaEK3TzdMD', 'value': valor, 'currency': 'BRL', 'transaction_id': gerarTransactionId() });
+    }
+</script>
