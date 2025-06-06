@@ -21,7 +21,7 @@ Cesta artesanal especial do dia dos namorados composta pelos seguintes itens:
 - Disquetti
 - Cartão de mensagem
 - Tag Personalizada
-- Emabalagem
+- Embalagem
 
 
 Pedidos com 24h de antecedência (podendo ser atendido antes mesmo desse prazo). 

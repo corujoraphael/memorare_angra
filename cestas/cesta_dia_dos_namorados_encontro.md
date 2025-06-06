@@ -22,7 +22,7 @@ Cesta artesanal especial do dia dos namorados composta pelos seguintes itens:
 - 01 Foto Polaroid com mensagem personalizada
 - Cartão de mensagem
 - Tag Personalizada
-- Emabalagem
+- Embalagem
 
 
 Pedidos com 24h de antecedência (podendo ser atendido antes mesmo desse prazo). 

@@ -30,7 +30,7 @@ Cesta artesanal composta pelos seguintes itens:
 - 01 Pequeno arranjo de flores
 - Cartão de mensagem
 - Tag Personalizada
-- Emabalagem
+- Embalagem
 
 
 Pedidos com 24h de antecedência (podendo ser atendido antes mesmo desse prazo). 
