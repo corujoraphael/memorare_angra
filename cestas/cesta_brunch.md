@@ -6,6 +6,7 @@ type: Café da manhã/tarde
 price: R$ 199,00
 photo: Cesta Brunch Cafe da manha - Conselheiro Lafaiete.webp
 layout: posts
+data: 06/05/2025
 ---
 Cesta artesanal composta pelos seguintes itens:
 

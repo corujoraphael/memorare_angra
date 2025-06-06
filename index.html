@@ -3,7 +3,7 @@ layout: layout.html
 ---
 <section id="banner">
   <a href="/produtos">
-    <img src="/imgs/Cesta cafe da manha - Dia das maes - Conselheiro Lafaiete.png" alt=""/>
+    <img src="/imgs/Cesta Dia dos Namorados Conselheiro Lafaiete MG.png" alt=""/>
   </a>
 </section>
 <section id="cover">
@@ -26,7 +26,7 @@ layout: layout.html
     </div>
   </div>
   <div class="images">
-    <img src="/imgs/Cesta PicNic Cafe da manha - Conselheiro Lafaiete.webp" alt="">
+    <img src="/imgs/Cesta Dia dos Namorados Declaracao - Conselheiro Lafaiete.webp" alt="">
   </div>
 </section>
 <section id="highlights">
@@ -50,7 +50,7 @@ layout: layout.html
   <h2>Nossos produtos</h2>
   <div class="container">
 
-    {% assign firstCestas = collections.cesta | limit: 4 %}
+    {% assign firstCestas = collections.cesta | orderByDate  | limit: 4 %}
     {% for cesta in firstCestas %}
     <div class="product">
       <a href="{{ cesta.url}}">
