@@ -1,10 +1,10 @@
 ---
 title: Cesta Kids
-pageTitle: Cesta Artesanal de cafe da manhã/tarde em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde em Angra dos Reis RJ | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 190,00
-photo: Cesta Kids Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta Kids Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

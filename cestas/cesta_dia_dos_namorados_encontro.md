@@ -1,10 +1,10 @@
 ---
 title: Cesta Dia dos Namorados Encontro
-pageTitle: Cesta Dia dos Namorados em Conselheiro Lafaiete MG | Encontro | Memorare Cestas
+pageTitle: Cesta Dia dos Namorados em Angra dos Reis RJ | Encontro | Memorare Cestas
 tags: cesta
 type: Dia dos namorados
 price: R$ 320,00
-photo: Cesta Dia dos Namorados Encontro - Conselheiro Lafaiete.webp
+photo: Cesta Dia dos Namorados Encontro - Angra dos Reis.webp
 layout: posts
 data: 06/06/2025
 ---

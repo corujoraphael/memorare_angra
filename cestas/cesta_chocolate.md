@@ -1,10 +1,10 @@
 ---
 title: Cesta Chocolate
-pageTitle: Cesta Artesanal de cafe da manha/tarde de chocolate em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manha/tarde de chocolate em Angra dos Reis MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 195,00
-photo: Cesta Chocolate Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta Chocolate Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

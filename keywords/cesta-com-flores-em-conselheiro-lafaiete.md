@@ -1,6 +1,6 @@
 ---
-title: "Cesta com Flores em Conselheiro Lafaiete"
-description: "A beleza das flores unida ao sabor de uma cesta deliciosa. Cestas com flores frescas e encantadoras em Conselheiro Lafaiete para todas as ocasiões."
+title: "Cesta com Flores em Angra dos Reis"
+description: "A beleza das flores unida ao sabor de uma cesta deliciosa. Cestas com flores frescas e encantadoras em Angra dos Reis para todas as ocasiões."
 layout: "home.html"
-permalink: "/cesta-com-flores-em-conselheiro-lafaiete/"
+permalink: "/cesta-com-flores-em-angra-dos-reis/"
 ---

@@ -1,10 +1,10 @@
 ---
 title: Cesta Brunch
-pageTitle: Cesta Artesanal de cafe da manha/tarde Brunch em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manha/tarde Brunch em Angra dos Reis MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 199,00
-photo: Cesta Brunch Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta Brunch Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

@@ -1,10 +1,10 @@
 ---
 title: Cesta Pic Nic
-pageTitle: Cesta Artesanal de cafe da manhã/tarde PicNic em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde PicNic em Angra dos Reis MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 245,00
-photo: Cesta PicNic Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta PicNic Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

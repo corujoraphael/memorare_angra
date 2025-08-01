@@ -1,10 +1,10 @@
 ---
 title: Cesta Dia dos Namorados Declaração
-pageTitle: Cesta Dia dos Namorados em Conselheiro Lafaiete MG | Declaração | Memorare Cestas
+pageTitle: Cesta Dia dos Namorados em Angra dos Reis RJ | Declaração | Memorare Cestas
 tags: cesta
 type: Dia dos namorados
 price: R$ 220,00
-photo: Cesta Dia dos Namorados Declaracao - Conselheiro Lafaiete.webp
+photo: Cesta Dia dos Namorados Declaracao - Angra dos Reis.webp
 layout: posts
 data: 06/06/2025
 ---

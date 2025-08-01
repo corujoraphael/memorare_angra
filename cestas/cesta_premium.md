@@ -1,10 +1,10 @@
 ---
 title: Cesta Premium
-pageTitle: Cesta Artesanal de cafe da manhã/tarde Premium em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde Premium em Angra dos Reis MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 280,00
-photo: Cesta Premium Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta Premium Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

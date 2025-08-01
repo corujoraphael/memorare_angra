@@ -1,10 +1,10 @@
 ---
 title: Cesta Classic
-pageTitle: Cesta Artesanal de cafe da manhã/tarde Classic em Conselheiro Lafaiete MG | Memorare Cestas
+pageTitle: Cesta Artesanal de cafe da manhã/tarde Classic em Angra dos Reis MG | Memorare Cestas
 tags: cesta
 type: Café da manhã/tarde
 price: R$ 185,00
-photo: Cesta Classic Cafe da manha - Conselheiro Lafaiete.webp
+photo: Cesta Classic Cafe da manha - Angra dos Reis.webp
 layout: posts
 data: 06/05/2025
 ---

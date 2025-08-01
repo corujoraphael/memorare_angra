@@ -1,6 +1,6 @@
 ---
-title: "Cesta Artesanal de Dia dos Avós em Conselheiro Lafaiete"
-description: "Neste Dia dos Avós, presenteie com uma cesta artesanal em Conselheiro Lafaiete. Feita com carinho, ideal para demonstrar amor e gratidão aos avós."
+title: "Cesta Artesanal de Dia dos Avós em Angra dos Reis"
+description: "Neste Dia dos Avós, presenteie com uma cesta artesanal em Angra dos Reis. Feita com carinho, ideal para demonstrar amor e gratidão aos avós."
 layout: "home.html"
-permalink: "/cesta-artesanal-de-dia-dos-avos-em-conselheiro-lafaiete/"
+permalink: "/cesta-artesanal-de-dia-dos-avos-em-angra-dos-reis/"
 ---
